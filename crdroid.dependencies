@@ -1,27 +1,22 @@
 [
     {
-            "repository": "crdroidandroid/android_device_motorola_sm6375-common",
-        "target_path": "device/motorola/sm6375-common",
-        "branch": "16.0"
+        "repository": "crdroidandroid/android_device_motorola_sm6375-common",
+        "target_path": "device/motorola/sm6375-common"
     },
     {
-            "repository": "crdroidandroid/android_kernel_motorola_sm6375",
-        "target_path": "kernel/motorola/sm6375",
-        "branch": "16.0"
+        "repository": "crdroidandroid/android_kernel_motorola_sm6375",
+        "target_path": "kernel/motorola/sm6375"
     },
     {
-            "repository": "crdroidandroid/android_vendor_motorola_fogo",
-        "target_path": "vendor/motorola/fogo",
-        "branch": "16.0"
+        "repository": "crdroidandroid/proprietary_vendor_motorola_fogo",
+        "target_path": "vendor/motorola/fogo"
     },
     {
-            "repository": "android_vendor_motorola_sm6375-common",
-        "target_path": "vendor/motorola/sm6375-common",
-        "branch": "16.0"
+        "repository": "crdroidandroid/proprietary_vendor_motorola_sm6375-common",
+        "target_path": "vendor/motorola/sm6375-common"
     },
     {
-            "repository": "crdroidandroid/android_hardware_motorola",
-        "target_path": "hardware/motorola",
-        "branch": "16.0"
+        "repository": "crdroidandroid/android_hardware_motorola",
+        "target_path": "hardware/motorola"
     }
 ]
