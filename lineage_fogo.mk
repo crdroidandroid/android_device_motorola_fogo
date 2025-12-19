@@ -23,6 +23,6 @@ PRODUCT_MODEL := moto g 5G - 2024
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="fogo_g-user 15 V1UFNS35H.193-20-2 3f418c-c3892b release-keys MV-304" \
-    BuildFingerprint=motorola/fogo_g/fogo:15/V1UFNS35H.193-20-2/3f418c-c3892b:user/release-keys \
+    BuildDesc="fogo_g-user 15 V1UFNS35H.193-20-4 f0468-0d1cc4 release-keys MV-304" \
+    BuildFingerprint=motorola/fogo_g/fogo:15/V1UFNS35H.193-20-4/f0468-0d1cc4:user/release-keys \
     DeviceProduct=fogo_g
